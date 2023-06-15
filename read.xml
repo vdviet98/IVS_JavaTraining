@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <food>
+        <name>Belgian Waffles</name>
+        <price>$5.95</price>
+        <description>Belgian Waffles</description>
+        <Calories>650</Calories>
+    </food>
+</root>
